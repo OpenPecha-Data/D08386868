@@ -1,47 +1,52 @@
-id: 480fb3650e3146aba5895d0502b1e1af
+id: 0c5af5169a3445a9b7ee4eadc68a841b
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  88dbe97890044f1fa4e45c169839cbe0:
+  47c137a3b1544473937e37b5f6861ee7:
     imgnum: 165
     reference: ''
     span:
       start: 0
-      end: 776
-  dec2ccb43eb84cf1959a70b35fa9a80b:
+      end: 778
+    note_ref: f293e703cce74052a830a82be2637dfd
+  a1e0f4cbc10e4b7fac45b8461efdade8:
     imgnum: 166
     reference: ''
     span:
-      start: 779
-      end: 2161
-  a92c085d491747419b922a5ca2cc56ec:
+      start: 781
+      end: 2165
+    note_ref: f293e703cce74052a830a82be2637dfd
+  9bd3544587b14d78885ade99313ed069:
     imgnum: 167
     reference: ''
     span:
-      start: 2164
-      end: 3510
-  8f13f4f753df41e5b57fae8bb207f3b6:
+      start: 2168
+      end: 3516
+    note_ref: f293e703cce74052a830a82be2637dfd
+  1411b11459c2493899a24c01c1d28e44:
     imgnum: 168
     reference: ''
     span:
-      start: 3513
-      end: 4858
-  d971ce6bbbc1458eb4d5466a08264b67:
+      start: 3519
+      end: 4866
+    note_ref: f293e703cce74052a830a82be2637dfd
+  34e7ee26f08d47de8079f4663cca67da:
     imgnum: 169
     reference: ''
     span:
-      start: 4861
-      end: 5891
-  fde72124461e494a954db7dc18c043c8:
+      start: 4869
+      end: 5901
+    note_ref: f293e703cce74052a830a82be2637dfd
+  f293e703cce74052a830a82be2637dfd:
     imgnum: 170
     reference: ''
     span:
-      start: 5894
-      end: 6115
+      start: 5904
+      end: 6137
 local_ids:
-  88dbe97890044f1fa4e45c169839cbe0: 200000
-  dec2ccb43eb84cf1959a70b35fa9a80b: 200001
-  a92c085d491747419b922a5ca2cc56ec: 200002
-  8f13f4f753df41e5b57fae8bb207f3b6: 200003
-  d971ce6bbbc1458eb4d5466a08264b67: 200004
-  fde72124461e494a954db7dc18c043c8: 200005
+  47c137a3b1544473937e37b5f6861ee7: 200000
+  a1e0f4cbc10e4b7fac45b8461efdade8: 200001
+  9bd3544587b14d78885ade99313ed069: 200002
+  1411b11459c2493899a24c01c1d28e44: 200003
+  34e7ee26f08d47de8079f4663cca67da: 200004
+  f293e703cce74052a830a82be2637dfd: 200005
