@@ -1,47 +1,52 @@
-id: 480fb3650e3146aba5895d0502b1e1af
+id: 4755775843354250b80b00f0e7525c5c
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  88dbe97890044f1fa4e45c169839cbe0:
+  50c3383515014ff89e452dbc464a7dec:
     imgnum: 165
     reference: ''
     span:
       start: 0
-      end: 776
-  dec2ccb43eb84cf1959a70b35fa9a80b:
+      end: 775
+    note_ref: 549f0bc3e6284887bd1dcb5f79cb6e5b
+  7489757464c04816a7da7c54d70df81e:
     imgnum: 166
     reference: ''
     span:
-      start: 779
-      end: 2161
-  a92c085d491747419b922a5ca2cc56ec:
+      start: 778
+      end: 2159
+    note_ref: 549f0bc3e6284887bd1dcb5f79cb6e5b
+  c6f30e7d004b46a1be9f40a15eb86d39:
     imgnum: 167
     reference: ''
     span:
-      start: 2164
-      end: 3510
-  8f13f4f753df41e5b57fae8bb207f3b6:
+      start: 2162
+      end: 3507
+    note_ref: 549f0bc3e6284887bd1dcb5f79cb6e5b
+  31c286b672f14fdeb9c5a3ec20863c77:
     imgnum: 168
     reference: ''
     span:
-      start: 3513
-      end: 4858
-  d971ce6bbbc1458eb4d5466a08264b67:
+      start: 3510
+      end: 4854
+    note_ref: 549f0bc3e6284887bd1dcb5f79cb6e5b
+  e26e69fba4ff480db8f0d812c7290936:
     imgnum: 169
     reference: ''
     span:
-      start: 4861
-      end: 5891
-  fde72124461e494a954db7dc18c043c8:
+      start: 4857
+      end: 5883
+    note_ref: 549f0bc3e6284887bd1dcb5f79cb6e5b
+  549f0bc3e6284887bd1dcb5f79cb6e5b:
     imgnum: 170
     reference: ''
     span:
-      start: 5894
-      end: 6115
+      start: 5886
+      end: 6119
 local_ids:
-  88dbe97890044f1fa4e45c169839cbe0: 200000
-  dec2ccb43eb84cf1959a70b35fa9a80b: 200001
-  a92c085d491747419b922a5ca2cc56ec: 200002
-  8f13f4f753df41e5b57fae8bb207f3b6: 200003
-  d971ce6bbbc1458eb4d5466a08264b67: 200004
-  fde72124461e494a954db7dc18c043c8: 200005
+  50c3383515014ff89e452dbc464a7dec: 200000
+  7489757464c04816a7da7c54d70df81e: 200001
+  c6f30e7d004b46a1be9f40a15eb86d39: 200002
+  31c286b672f14fdeb9c5a3ec20863c77: 200003
+  e26e69fba4ff480db8f0d812c7290936: 200004
+  549f0bc3e6284887bd1dcb5f79cb6e5b: 200005
